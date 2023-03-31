@@ -1,0 +1,25 @@
+{
+  "name": "tp-typescript-ref",
+  "version": "1.0.0",
+  "description": "A library of Typescrip references.",
+  "main": "./dist/indes.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtramantT/tp-typescript-ref.git"
+  },
+  "keywords": [
+    "Typescript"
+  ],
+  "author": "Matthew Tramantano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mtramantT/tp-typescript-ref/issues"
+  },
+  "homepage": "https://github.com/mtramantT/tp-typescript-ref#readme",
+  "devDependencies": {
+    "typescript": "^5.0.3"
+  }
+}
